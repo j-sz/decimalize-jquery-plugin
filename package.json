@@ -1,0 +1,19 @@
+{
+  "name": "decimalize-jquery-plugin",
+  "version": "1.0.0",
+  "description": "jQuery plugin to automatically add a decimal to an INPUT field, forked from https://github.com/gregschwartz/decimalize-jquery-plugin.",
+  "main": "jquery.decimalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-sz/decimalize-jquery-plugin.git"
+  },
+  "author": "https://github.com/gregschwartz",
+  "license": "SEE LICENSE IN: LICENSE",
+  "bugs": {
+    "url": "https://github.com/j-sz/decimalize-jquery-plugin/issues"
+  },
+  "homepage": "https://github.com/j-sz/decimalize-jquery-plugin#readme"
+}
