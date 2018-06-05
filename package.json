@@ -1,5 +1,5 @@
 {
-  "name": "decimalize-jquery-plugin",
+  "name": "jquery-plugin-decimalize",
   "version": "1.0.0",
   "description": "jQuery plugin to automatically add a decimal to an INPUT field, forked from https://github.com/gregschwartz/decimalize-jquery-plugin.",
   "main": "jquery.decimalize.js",
